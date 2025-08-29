@@ -1,4 +1,4 @@
-# KKN PDF Merger & Validator (3‑Way) 🚀
+# PDF Merger & Validator (3‑Way) 🚀
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Status](https://img.shields.io/badge/status-active-success)
